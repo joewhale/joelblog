@@ -1,0 +1,5 @@
+baseURL = "http://chileconqueso.com"
+languageCode = "en-us"
+title = "Joel Choi's Hugo Site"
+theme = "ananke"
+draft = "true"
